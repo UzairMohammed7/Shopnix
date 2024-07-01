@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shopnix/static/css/main.4fed77f5.css",
+    "main.js": "/Shopnix/static/js/main.a62641f6.js",
+    "static/js/453.8bb6609e.chunk.js": "/Shopnix/static/js/453.8bb6609e.chunk.js",
+    "index.html": "/Shopnix/index.html",
+    "main.4fed77f5.css.map": "/Shopnix/static/css/main.4fed77f5.css.map",
+    "main.a62641f6.js.map": "/Shopnix/static/js/main.a62641f6.js.map",
+    "453.8bb6609e.chunk.js.map": "/Shopnix/static/js/453.8bb6609e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fed77f5.css",
+    "static/js/main.a62641f6.js"
+  ]
+}
